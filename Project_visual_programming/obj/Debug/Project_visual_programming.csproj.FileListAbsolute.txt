@@ -1,0 +1,12 @@
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.csproj.AssemblyReference.cache
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.Properties.Resources.resources
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.csproj.GenerateResource.cache
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.csproj.CoreCompileInputs.cache
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\bin\Debug\Project_visual_programming.exe.config
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\bin\Debug\Project_visual_programming.exe
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\bin\Debug\Project_visual_programming.pdb
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.exe
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.pdb
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.Form1.resources
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\bin\Debug\Guna.UI2.dll
+C:\Users\fafan\source\repos\Project_visual_programming\Project_visual_programming\obj\Debug\Project_visual_programming.csproj.CopyComplete
